@@ -1,0 +1,15 @@
+* {
+    Box-sizing: border box;
+    }
+    
+    Header {
+        Background: white;
+        Border-bottom: 5px solid teal;
+    }
+    
+    .page-wrapper {
+        Witdth: 90%
+        Margon: 0 auto;
+        Display: flex;
+        Justify-content: space between;
+    

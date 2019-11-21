@@ -1,0 +1,46 @@
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    Border-bottom: 5px solid teal
+}
+
+.Thomas {
+    box-sizing: border-box;
+}
+
+.About {
+    color: #4aaaa5
+}
+
+h1 {
+    color: hotpink;
+    font-size: x-large;
+}
+
+.My {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    text-align: left;
+    width: 960px;
+    border: 15px solid;
+    padding: 50px;
+    margin: 20px;
+}
+body {
+    background-color: #4aaaa5;
+    color: #777777;
+}
+
+.img-thomas {
+    width: 300px;
+}
+
+.footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    margin-top: 400px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}

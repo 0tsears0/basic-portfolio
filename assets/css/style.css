@@ -1,7 +1,7 @@
 body {
     margin: 0%;  
     padding: 0%;
-    background-color: #4aaaa5;
+    background-image: url("assets/images/paper.png");
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -38,9 +38,9 @@ header {
     text-align: left;
     line-height: 1.6;
     width: 960px;
-    border: 15px solid;
+    border: 2px solid;
     padding: 50px;
-    margin: 20px;
+    margin: auto;
 }
 .content h2 {
     color: #4aaaa5;
@@ -51,12 +51,15 @@ header {
 }
 .img-thomas {
     width: 300px;
+    float: left;
+    
 }
 .footer {
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
-    margin-top: 400px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    width: auto;
+
+    text-align: center;
+    color: lightgray;
+
 }

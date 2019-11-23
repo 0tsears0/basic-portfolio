@@ -39,20 +39,22 @@ header {
     line-height: 1.6;
     width: 960px;
     border: 2px solid;
-    padding: 50px;
+    padding: 25px;
     margin: auto;
 }
 .content h2 {
     color: #4aaaa5;
     font-size: x-large;
+    padding: 0%;
 }
 .list {
     list-style-type: square;
 }
 .img-thomas {
-    width: 300px;
+    width: 250px;
     float: left;
-    
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 .footer {
     border-top: 8px solid #4aaaa5;
